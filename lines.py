@@ -6,6 +6,7 @@ for line in lines.pop(n):
     print(line)
     print(lines)
     print(lines,'by sharif')
+    print('xxx')
         
         
 #tail(req.txt)
