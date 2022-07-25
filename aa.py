@@ -26,3 +26,4 @@ class Boy(Human):
 b = Boy('aa')
 b.description()
 #b.schoolName('abc')
+# a = Boy('bb')
