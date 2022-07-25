@@ -2,8 +2,9 @@
 n=10
 with open('''C:\\Users\\Sharif\\Desktop\\sharif\\req.txt''',"r") as f:
     lines = f.readlines()
-for line in lines.pop(n)]:
+for line in lines.pop(n):
     print(line)
+    print(lines)
         
         
 #tail(req.txt)
