@@ -5,6 +5,7 @@ with open('''C:\\Users\\Sharif\\Desktop\\sharif\\req.txt''',"r") as f:
 for line in lines.pop(n):
     print(line)
     print(lines)
+    print(lines,'by sharif')
         
         
 #tail(req.txt)
