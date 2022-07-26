@@ -10,3 +10,7 @@ def new_task():
 def local_fun():
     "this is local function"
     pass
+
+ def remote_fun():
+  """this is remote function"""
+  pass
