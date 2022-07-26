@@ -2,6 +2,11 @@
 print('sharif')
 print('new line')
 print('AbA')
+
 def new_task():
   "new method"
-  psss
+
+
+def local_fun():
+    "this is local function"
+    pass
