@@ -13,3 +13,6 @@ def local_fun():
  def remote_fun():
   """this is remote function"""
   pass
+
+def nnnnnnnnnnn():
+  pass
