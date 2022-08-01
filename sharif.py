@@ -9,3 +9,5 @@ def sharif():
     pass
 def sachin():
     pass
+def remote():
+    pass
