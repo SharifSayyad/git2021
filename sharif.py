@@ -7,4 +7,5 @@ def Helo_word():
 
 def sharif():
     pass
-
+def sachin():
+    pass
